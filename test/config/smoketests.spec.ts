@@ -1,5 +1,5 @@
-const divisor = require('../../src/application/divisor')
-const prime = require('../../src/application/prime')
+import { divisor } from '../../src/application/divisor'
+import { prime } from '../../src/application/prime'
 
 describe('Should return the divisors and the prime numbers', () => {
   it('should return the divisors of a number', async () => {
