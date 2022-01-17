@@ -1,4 +1,4 @@
-import request from 'supertest'
+const request = require('supertest')
 const app = require('../../src/config/app')
     
 describe('Should respond in the 3001 PORT', () => {
