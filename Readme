@@ -1,0 +1,6 @@
+Projeto de Desafio técnico da Framework
+
+Para rodar testes neste projeto estou utilizando o Node com o jest com o comando "npm run testes"
+Para executar o projeto estou rodando o comando "node src/config/app.js" que sobe um servidor local
+na porta 3000 podendo ser acessado pelo link http://localhost:3000.
+Depois de subir o servidor local e acessar o link basta digitar o numero desejado no form basta clicar no botão ao lado e a resposta aparecerá na tela.

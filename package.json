@@ -14,6 +14,7 @@
     "express": "^4.17.2",
     "git-commit-msg-linter": "^4.0.7",
     "jest": "^27.4.7",
-    "supertest": "^6.2.1"
+    "supertest": "^6.2.1",
+    "ts-jest": "^27.1.3"
   }
 }
